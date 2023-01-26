@@ -1,1 +1,1 @@
-## This is Openzeppelin's Eternaut challenge solution contracts by me ;)
+## This is Openzeppelin's Eternaut challenge solution contracts by me :)
